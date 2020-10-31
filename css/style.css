@@ -1,0 +1,82 @@
+body{
+
+	margin: 0;
+	padding: 0;
+}
+
+
+.header{
+	min-height: 10px;
+	background-color: rgba(00,00,00,.5);
+	margin: 0 auto;
+
+
+}
+
+h1{
+	font-size: 5em;
+		margin: 0;
+		padding: 0;
+		text-align: center;
+		font-family: arial;
+	
+
+}
+
+.box{
+
+	overflow: hidden;
+	text-align: center;
+	
+	
+}
+
+.about{
+
+	height: 300px;
+	background-color: red;
+	width: 33.3%;
+	float: left;
+	display: block;
+}
+
+
+h2{
+	text-align: center;
+	font-family: arial;
+	font-size: 20px;
+	display: block;
+	color: white;
+
+}
+
+.blog{
+     
+     height: 300px;
+	 background-color: green;
+	 width: 33.3%;
+	 float: left;
+     display: block;
+
+
+}
+
+
+.contact{
+
+	height: 300px;
+	background-color: pink;
+	width: 33.3%;
+	float: left;
+	display: block;
+	
+}
+
+.footer{
+
+	height: 100px;
+	background-color: blue;
+}
+
+
+
